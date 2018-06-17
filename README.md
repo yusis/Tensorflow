@@ -11,5 +11,8 @@ Tensorflow note
 # a = tf.placeholder("float") #宣告成浮點數
 
 
+# GradientDescentOptimizer()原始碼 = https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/gradient_descent.py
+
+
 
 
